@@ -1,3 +1,4 @@
 def turn_count(board)
-  turns = 0 |space|
-  board.each do 
+  turns = 0
+  board.each do |space|
+    
