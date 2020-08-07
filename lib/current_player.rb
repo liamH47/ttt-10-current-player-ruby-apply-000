@@ -9,4 +9,4 @@ def turn_count(board)
 end
 
 def current_player
-  turns 
+  turns = turn_count
